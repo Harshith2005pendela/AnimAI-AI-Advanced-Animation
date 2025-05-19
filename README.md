@@ -2,20 +2,12 @@
 
 ## Week 1 
 
-To get started with this project, you’ll need a basic understanding of Python, some data science concepts, and a few key Python libraries. We suggest going through the files in the Python folder first—this will help you get comfortable with the language.
+To begin the project, ensure a basic understanding of Python and data science concepts. Start with the Python folder resources to learn the language, then proceed to the other python libraries. Familiarize yourself with the following libraries:
 
-Once you’ve got the basics down, move on to the EDA (Exploratory Data Analysis) assignment. It’s a great way to get hands-on practice and start working with real data.
-
-Also, make sure to learn and explore the following libraries:
-
-NumPy – for working with arrays and performing numerical operations
-
-Pandas – for handling and analyzing data
-
-Scikit-learn (sklearn) – for machine learning and model building
-
-Matplotlib – for creating visualizations (you’ll find a file uploaded with this name to help you out)
-
+NumPy: For array operations and numerical tasks.
+Pandas: For data manipulation and analysis.
+Scikit-learn (sklearn): For machine learning and modeling.
+Matplotlib: For data visualizations (see uploaded "Matplotlib" file).
 
 ##   Week 2
 Last but not the least 
